@@ -1,0 +1,22 @@
+Task,Time (seconds)
+GCN and MPNN Training,136.38131308555603
+Embedding Creation,4.966141223907471
+Performing Cross-Validation,494.34712648391724
+CatBoost Training,1.7998449802398682
+XGBoost Training,0.9501144886016846
+LightGBM Training,0.5367326736450195
+CatBoost Inference,0.0
+XGBoost Inference,0.01052236557006836
+LightGBM Inference,0.012522459030151367
+Fusion Model (LR) Training,0.0015091896057128906
+Fusion Model (SVM) Training,2.0533695220947266
+Fusion Model (LR) Inference,20.70373034477234
+Fusion Model (SVM) Inference,8.579064130783081
+Ablation Study - Embeddings of GCN only,12.209731340408325
+Ablation Study - Embeddings of MPNN only,11.555362462997437
+"Ablation Study - Embeddings of MPNN only, without catboost",11.01011848449707
+"Ablation Study - Embeddings of MPNN only, without xgboost",10.265197515487671
+"Ablation Study - Embeddings of MPNN only, without lightgbm",11.21216869354248
+Ablation Study - Without CatBoost,15.304260969161987
+Ablation Study - Without XGBoost,7.635883569717407
+Ablation Study - Without LightGBM,16.169954299926758
