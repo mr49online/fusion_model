@@ -8,7 +8,7 @@ Shows the PCA-based projection of graph embeddings from GCN and MPNN, highlighti
 
 **3. Execution Time for All Pipeline Steps**
 
-Breakdown of time taken for each major step including GNN training, model training, and ablation experiments. Experiments were conducted on CPU only.
+Breakdown of time taken for each major step including GNN training, model training, and ablation experiments. Experiments were conducted on CPU only. _(7_execution_time.png)_
 
 **4. Confusion Matrix – Fusion Model (Logistic Regression)**
 
