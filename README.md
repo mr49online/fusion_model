@@ -1,9 +1,9 @@
 # fusion_model
-................................................................
+
 **Source Code: **
 **NOTE:** _The code will be made publicly available soon..._
-................................................................
-**Suplementary Data:**
+
+
 **1. Training & Validation Metrics Over Epochs**
 Tracks the loss and accuracy of GCN+MPNN during training. Early stopping helps prevent overfitting.
 
